@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Hchn — 工业设计作品集",
-  description: "Hchn 工业设计作品集。为梦想的世界而设计。",
+  title: "Hchn 工业设计作品集 · 暗场版",
+  description: "Hchn 暗色沉浸式工业设计作品集。为梦想的世界而设计。",
   icons: {
     icon: "/favicon.svg",
     shortcut: "/favicon.svg",
